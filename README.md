@@ -17,8 +17,11 @@ Interests: Data Science, AI and Machine Learning
 🚀 Featured Projects
 
 AI-Powered Intrusion Detection System
+
 Real-Time AQI Comparison Dashboard
+
 Resume Optimizer
+
 Movie Search App
 
 🎓 Education
